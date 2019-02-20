@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoorControlBreachedTestsSub.cs" />
     <Compile Include="DoorControlDoorBreachedTests.cs" />
     <Compile Include="DoorControlEntryDeniedTests.cs" />
     <Compile Include="DoorControlEntryGrantedTests.cs" />
